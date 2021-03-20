@@ -2,6 +2,6 @@ Esta pasta contém alguns arquivos que podem ser uteis no processo de desenvolvi
 
 Exemplos;
 
-normalize.css
-reset.css
-varibles.css
+normalize.css<br>
+reset.css<br>
+varibles.css<br>
