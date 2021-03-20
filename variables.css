@@ -1,0 +1,60 @@
+/***************************************************
+ *             VARIABLES VERSION 1.0                                 
+ *                                                                        
+ ***************************************************/
+ :root {
+/* CSS HEX */
+--tyrian-purple: #6e0138ff;
+--black-chocolate: #161304ff;
+--rose-bonbon: #ec489aff;
+--ming: #036f80ff;
+--midnight-green-eagle-green: #065c69ff;
+--xiketic: #03071eff;
+--dark-sienna: #370617ff;
+--rosewood: #6a040fff;
+--dark-red: #9d0208ff;
+--rosso-corsa: #d00000ff;
+--vermilion: #dc2f02ff;
+--persimmon: #e85d04ff;
+--carrot-orange: #f48c06ff;
+--orange-web: #faa307ff;
+--selective-yellow: #ffba08ff;
+--color-roseone: #e62b86;
+--color-rosetwo: #ea5493;
+--color-violvim: #4a2885;
+--color-blue: #0000ff;
+--color-marine: #000080;
+--color-bluer: #03071e;
+--color-redb: #d00000;
+--color-verdb: #081c15;
+--color-amar: #ffbe0b;
+--apricot: #ffcdb2ff;
+--melon: #ffb4a2ff;
+--pastel-pink: #e5989bff;
+--english-lavender: #b5838dff;
+--old-lavender: #6d6875ff;
+--color-jquery: #0769ad;
+
+/* CSS HSL */
+--tyrian-purple: hsla(330, 98%, 22%, 1);
+--black-chocolate: hsla(50, 69%, 5%, 1);
+--rose-bonbon: hsla(330, 81%, 60%, 1);
+--ming: hsla(188, 95%, 26%, 1);
+--midnight-green-eagle-green: hsla(188, 89%, 22%, 1);
+--middle-dark-night: hsla(0, 2%, 2%, 0.5);
+--xiketic: hsla(231, 82%, 6%, 1);
+--dark-sienna: hsla(339, 80%, 12%, 1);
+--rosewood: hsla(354, 93%, 22%, 1);
+--dark-red: hsla(358, 97%, 31%, 1);
+--rosso-corsa: hsla(0, 100%, 41%, 1);
+--vermilion: hsla(12, 98%, 44%, 1);
+--persimmon: hsla(23, 97%, 46%, 1);
+--carrot-orange: hsla(34, 95%, 49%, 1);
+--orange-web: hsla(39, 96%, 50%, 1);
+--selective-yellow: hsla(43, 100%, 52%, 1);
+--apricot: hsla(21, 100%, 85%, 1);
+--melon: hsla(12, 100%, 82%, 1);
+--pastel-pink: hsla(358, 60%, 75%, 1);
+--english-lavender: hsla(348, 25%, 61%, 1);
+--old-lavender: hsla(263, 6%, 43%, 1);
+}
