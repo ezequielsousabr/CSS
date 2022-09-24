@@ -4,4 +4,3 @@ Exemplos;
 
 normalize.css<br>
 reset.css<br>
-varibles.css<br>
